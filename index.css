@@ -59,7 +59,7 @@
     letter-spacing: -0.4;
     line-height: 0.889;
     margin: 0;
-    font-family: RocGrotesk;
+    font-family: RocGrotesk, sans-serif;
 }
 
 .block-one-sub-heading {
@@ -128,7 +128,7 @@
 
 .block-two-header .block-two-heading {
     max-width: 730px;
-    font-family: RocGrotesk;
+    font-family: RocGrotesk, sans-serif;
     font-size: 64px;
     color: #0A0909;
     font-weight: 700;
@@ -167,7 +167,7 @@
     font-size: 22px;
     line-height: 1.4;
     color: #0A0909;
-    font-family: RocGrotesk;
+    font-family: RocGrotesk, sans-serif;
     font-weight: 500;
     box-sizing: border-box;
 }
@@ -271,7 +271,7 @@
 }
 
 .block-three .heading {
-    font-family: RocGrotesk;
+    font-family: RocGrotesk, sans-serif;
     font-weight: 800;
     font-size: 32px;
     line-height: 1.2;
